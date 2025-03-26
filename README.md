@@ -8,3 +8,4 @@ Tasks:
 3) Undoing Changes and Reverting Commits
 4) Simulating and Resolving Merge Conflicts
 5) Interactive Rebasing for Clean Commit History
+6) Stashing Changes for Context Switching
