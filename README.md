@@ -10,3 +10,6 @@ Tasks:
 5) Interactive Rebasing for Clean Commit History
 6) Stashing Changes for Context Switching
 7) Cherry-Picking Commits Between Branches
+8) Using Git Hooks for Automated Checks
+9) Working with Remote Repositories and Collaboration
+10) Comprehensive Workflow with Forced Pushes and Recovery
