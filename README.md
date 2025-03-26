@@ -9,3 +9,4 @@ Tasks:
 4) Simulating and Resolving Merge Conflicts
 5) Interactive Rebasing for Clean Commit History
 6) Stashing Changes for Context Switching
+7) Cherry-Picking Commits Between Branches
